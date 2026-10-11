@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm **Siyavash Afeilyzadeh**.
 
-I've recently completed intensive courses in **Algorithms**, **Java SE**, and **Java EE (Jakarta)**, and I'm currently deepening my knowledge of the **Spring** ecosystem.  
+I've recently completed intensive courses in **Algorithms**, **Java SE**, and **Jakarta EE**, and I'm currently deepening my knowledge of the **Spring** ecosystem.  
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/siyavash-afeilyzadeh-285b80123) or via email at [siyavash.afeilyzadeh@gmail.com](mailto:siyavash.afeilyzadeh@gmail.com).
 
