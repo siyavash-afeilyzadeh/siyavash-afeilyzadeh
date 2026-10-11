@@ -18,6 +18,30 @@ Servlets · RESTful APIs
 **Tools**  
 Maven · Git · SQL
 
+## 💼 What I Can Build
+
+With my current skills in **Java**, **Jakarta EE**, and the **Spring** ecosystem, I can develop the following types of systems:
+
+### 🛒 Business Systems
+- E-commerce / Online Store backends  
+- Inventory & Warehouse Management systems  
+- Order Processing & Sales systems  
+
+### 📅 Service Systems
+- Appointment & Scheduling platforms  
+- Ticket / Support systems  
+- Customer Service management tools  
+
+### ⚙️ Automation & Internal Tools
+- Business process automation  
+- Internal management dashboards  
+- Workflow and notification systems  
+
+### 🌐 Web Applications
+- RESTful backend services  
+- Multi-user web applications with role-based access  
+- Data-driven business applications
+
 ## 🌍 Background
 
 Regional Planning Expert with a Master’s degree and over three years of experience in **spatial analysis**, **GIS**, and **urban-regional studies**.  
