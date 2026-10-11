@@ -2,6 +2,20 @@
 
 I'm **Siyavash Afeilyzadeh**.
 
+## 🛠️ Skills
+
+**Core & Backend**  
+Java · Jakarta EE · Spring Framework · Spring Boot · Spring MVC · Spring Security
+
+**Persistence**  
+JPA · Hibernate · Spring Data JPA · JTA
+
+**Web & API**  
+Servlets · RESTful APIs
+
+**Tools**  
+Maven · Git · SQL
+
 ## 🌍 Background
 
 Regional Planning Expert with a Master’s degree and over three years of experience in **spatial analysis**, **GIS**, and **urban-regional studies**.  
