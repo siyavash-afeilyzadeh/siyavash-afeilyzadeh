@@ -1,8 +1,4 @@
-## Hi there 👋
-
-## Hi there 👋
-
-I'm **Siyavash Afeilyzadeh**.
+## Hi there 👋 I'm **Siyavash Afeilyzadeh**.
 
 I've recently completed intensive courses in **Algorithms**, **Java SE**, and **Java EE (Jakarta)**, and I'm currently deepening my knowledge of the **Spring** ecosystem.  
 My background is in regional planning and GIS, and I'm now focused on transitioning fully into software development — building reliable backend systems and moving toward full-stack and AI-related work.
