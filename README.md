@@ -1,6 +1,13 @@
 ## Hi there 👋
 
+## Hi there 👋
+
 I'm **Siyavash Afeilyzadeh**.
+
+I've recently completed intensive courses in **Algorithms**, **Java SE**, and **Java EE (Jakarta)**, and I'm currently deepening my knowledge of the **Spring** ecosystem.  
+My background is in regional planning and GIS, and I'm now focused on transitioning fully into software development — building reliable backend systems and moving toward full-stack and AI-related work.
+
+You can reach me on [LinkedIn](https://www.linkedin.com/in/siyavash-afeilyzadeh-285b80123) or via email at [siyavash.afeilyzadeh@gmail.com](mailto:siyavash.afeilyzadeh@gmail.com).
 
 ## 🛠️ Skills
 
